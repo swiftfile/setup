@@ -15,3 +15,4 @@ sudo apt install git
 sudo apt-get install chrome-gnome-shell
 sudo apt install gnome-shell-extensions
 sudo apt install gnome-shell-extension-prefs
+sudo apt install gnome-shell-extension-system-monitor

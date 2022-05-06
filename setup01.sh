@@ -11,3 +11,5 @@ sudo apt install curl -y
 sudo apt install -y fcitx fcitx-mozc
 sudo im-config -n fcitx
 echo  "please reboot and setting fcitx"
+sudo apt install git
+

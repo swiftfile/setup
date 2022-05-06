@@ -12,4 +12,6 @@ sudo apt install -y fcitx fcitx-mozc
 sudo im-config -n fcitx
 echo  "please reboot and setting fcitx"
 sudo apt install git
-
+sudo apt-get install chrome-gnome-shell
+sudo apt install gnome-shell-extensions
+sudo apt install gnome-shell-extension-prefs

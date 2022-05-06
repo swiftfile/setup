@@ -6,7 +6,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb -y
 sudo rm ./google-chrome-stable_current_amd64.deb
 sudo apt install linux-generic-hwe-20.04-edge -y
 sudo apt install snap -y
-sudo snap install slack --classic
+google-chrome https://slack.com/intl/ja-jp/downloads/instructions/ubuntu
 sudo apt install curl -y 
 sudo apt install -y fcitx fcitx-mozc
 sudo im-config -n fcitx
